@@ -9,7 +9,7 @@ import pandas as pd
 app = Flask(__name__)
 CORS(app)
 
-API_KEY = '0d4ccf231c9c49666f4e3e6bebf37cc6cd129e2617a7dce462c3f04f49c1f73a' 
+API_KEY = 'YOUR_API_KEY' 
 
 logging.basicConfig(level=logging.DEBUG)
 
